@@ -1,0 +1,21 @@
+.komiczne {
+	font-family: "Comic Sans MS";
+} .czasy-nowego-romana {
+	font-family: "Times New Roman";
+} .krzywe {
+	font-style: italic;
+} .nie-ma-szeryfa {
+	font-family: sans-serif;
+} .szeryf {
+	font-family: serif;
+} .odreczne {
+	font-family: cursive;
+} .nadwaga {
+	font-weight: bold;
+} .grube {
+	font-weight: bolder;
+} .przecietne {
+	font-weight: normal;
+} .chude {
+	font-weight: lighter;
+}
