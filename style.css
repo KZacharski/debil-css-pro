@@ -6,24 +6,39 @@ debil-css Pro posiada otwarte źródło i jest udostępniony na licencji MIT (ht
 Łącze do źródła: https://github.com/KZacharski/debil-css-pro
 */
 
-.komiczne {
+// Klasy dotyczące czcionek
+.czcionka-komiczne {
 	font-family: "Comic Sans MS" !important;
-} .czasy-nowego-romana {
+} .czcionka-czasy-nowego-romana {
 	font-family: "Times New Roman" !important;
-} .krzywe {
+} .czcionka-krzywe {
 	font-style: italic;
-} .nie-ma-szeryfa {
+} .czcionka-nie-ma-szeryfa {
 	font-family: sans-serif;
-} .szeryf {
+} .czcionka-szeryf {
 	font-family: serif;
-} .odreczne {
+} .czcionka-odreczne {
 	font-family: cursive;
-} .nadwaga {
+} .czcionka-nadwaga {
 	font-weight: bold;
-} .grube {
+} .czcionka-grube {
 	font-weight: bolder;
-} .przecietne {
+} .czcionka-dowaga {
 	font-weight: normal;
-} .chude {
+} .czcionka-chude {
 	font-weight: lighter;
-} 
+} .czcionka-za-male {
+	font-size: xx-small;
+} .czcionka-male {
+	font-size: x-small;
+} .czcionka-nieduze {
+	font-size: small;
+} .czcionka-przecietne {
+	font-size: medium;
+} .czcionka-niemale {
+	font-size: large;
+} .czcionka-duze {
+	font-size: x-large;
+} .czcionka-za-duze {
+	font-size: xx-large;
+}
