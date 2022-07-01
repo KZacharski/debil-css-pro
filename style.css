@@ -98,8 +98,58 @@ debil-css Pro posiada otwarte źródło i jest udostępniony na licencji MIT (ht
 } .bardzo-zaokraglone {
 	border-radius: 75%;
 } .za-bardzo-zaokraglone {
-	border-radius: 100%
+	border-radius: 100%;
 }
 
 //Klasy dotyczące wyściółki
-.brak-wy
+.brak-wysciolki {
+	padding: 0%;
+} .mala-wysciolka {
+	padding: 25%;
+} .wysciolka {
+	padding: 50%;
+} .duza-wysciolka {
+	padding: 75%;
+} .za-duza-wysciolka {
+	padding: 100%;
+} .brak-liberalnej-wysciolki {
+	padding-bottom: 0%;
+} .lekko-liberalna-wysciolka {
+	padding-bottom: 25%;
+} .liberalna-wysciolka {
+	padding-bottom: 50%;
+} .mocno-liberalna-wysciolka {
+	padding-bottom: 75%;
+} .ekstremalnie-liberalna-wysciolka {
+	padding-bottom: 100%;
+} .brak-autorytarnej-wysciolki {
+	padding-top: 0%;
+} .lekko-autorytarna-wysciolka {
+	padding-top: 25%;
+} .autorytarna-wysciolka {
+	padding-top: 50%;
+} .mocno-autorytarna-wysciolka {
+	padding-top: 75%;
+} .dykatator-wysciolka {
+	padding-top: 100%;
+} .brak-lewicowej-wysciolki {
+	padding-left: 0%;
+} .lekko-lewicowa-wysciolka {
+	padding-left: 25%;
+} .lewicowa-wysciolka {
+	padding-left: 50%;
+} .lewacka-wysciolka {
+	padding-left: 75%;
+} .komunistyczna-wysciolka {
+	padding-left: 100%
+} .brak-prawicowej-wysciolki {
+	padding-right: 0%;
+} .lekko-prawicowa-wysciolka {
+	padding-right: 25%;
+} .prawicowa-wysciolka {
+	padding-right: 50%;
+} .prawacka-wysciolka {
+	padding-right: 75%;
+} .anarchokapitalistyczna-wysciolka {
+	padding-right: 100%;
+}
