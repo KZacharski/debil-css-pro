@@ -41,4 +41,49 @@ debil-css Pro posiada otwarte źródło i jest udostępniony na licencji MIT (ht
 	font-size: x-large;
 } .czcionka-za-duze {
 	font-size: xx-large;
+} .czcionka-haker {
+	font-size: monospace;
+}
+
+// Klasy dotyczące kolorów (lewacka propaganda)
+.kolor-zielone {
+	color: green;
+} .kolor-niebieskie {
+	color: blue;
+} .kolor-czarne {
+	color: black;
+} .kolor-biale {
+	color: white;
+} .kolor-czerwone {
+	color: red;
+} .kolor-zolte {
+	color: yellow;
+} .kolor-szare {
+	color: gray;
+} .kolor-fioletowe {
+	color: purple;
+} .kolor-rozowe {
+	color: pink;
+} .kolor-pomaranczowe {
+	color: orange;
+} .kolor-tlo-zielone {
+	background-color: green;
+} .kolor-tlo-niebieskie {
+	background-color: blue;
+} .kolor-tlo-czarne {
+	background-color: black;
+} .kolor-tlo-biale {
+	background-color: white;
+} .kolor-tlo-czerwone {
+	background-color: red;
+} .kolor-tlo-zolte {
+	background-color: yellow;
+} .kolor-tlo-szare {
+	background-color: gray;
+} .kolor-tlo-fioletowe {
+	background-color: purple;
+} .kolor-tlo-rozowe {
+	background-color: pink;
+} .kolor-tlo-pomaranczowe {
+	background-color: orange;
 }
