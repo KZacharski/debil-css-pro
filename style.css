@@ -42,7 +42,7 @@ debil-css Pro posiada otwarte źródło i jest udostępniony na licencji MIT (ht
 } .czcionka-za-duze {
 	font-size: xx-large;
 } .czcionka-haker {
-	font-size: monospace;
+	font-family: monospace;
 }
 
 // Klasy dotyczące kolorów (lewacka propaganda)
@@ -87,3 +87,19 @@ debil-css Pro posiada otwarte źródło i jest udostępniony na licencji MIT (ht
 } .kolor-tlo-pomaranczowe {
 	background-color: orange;
 }
+
+// Klasy dotyczące zaokrąglenia
+.niezaokraglone {
+	border-radius: 0%;
+} .troche-zaokraglone {
+	border-radius: 25%;
+} .zaokraglone {
+	border-radius: 50%;
+} .bardzo-zaokraglone {
+	border-radius: 75%;
+} .za-bardzo-zaokraglone {
+	border-radius: 100%
+}
+
+//Klasy dotyczące wyściółki
+.brak-wy
