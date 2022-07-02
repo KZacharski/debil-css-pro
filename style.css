@@ -205,27 +205,45 @@ debil-css Pro posiada otwarte źródło i jest udostępniony na licencji MIT (ht
 
 // Klasy dotyczące wyświetlacza
 .wyswietlacz-w-linii {
-	
+	display: inline;
 } .wyswietlacz-blok {
-	
+	display: block;
 } .wyswietlacz-tresci {
-	
+	display: contents;
 } .wyswietlacz-elastyczny {
-	
+	display: flex;
 } .wyswietlacz-siatka {
-	
+	display: grid;
 } .wyswietlacz-blok-w-linii {
-	
+	display: inline-block;
 } .wyswietlacz-elastyczny-w-linii {
-	
+	display: inline-flex;
 } .wyswietlacz-siatka-w-linii {
-	
+	display: inline-grid;
 } .wyswietlacz-stol-w-linii {
-	
+	display: inline-table;
 } .wyswietlacz-przedmiot-listy {
-	
+	display: list-item;
 } .wyswietlacz-wbiegnij {
-	
+	display: run-in;
 } .wyswietlacz-stol {
-	
-} .wyswietlacz-stol-pod
+	display: table;
+} .wyswietlacz-stol-podpis {
+	display: table-caption;
+} .wyswietlacz-stol-kolumna-grupa {
+	display: table-column-group;
+} .wyswietlacz-stol-naglowek-grupa {
+	display: table-header-group;
+} .wyswietlacz-stol-stopka-grupa {
+	display: table-footer-group;
+} .wyswietlacz-stol-szereg-grupa {
+	display: table-row-group;
+} .wyswietalcz-stol-ogniwo {
+	display: table-cell;
+} .wyswietalcz-stol-kolumna {
+	display: table-column;
+} .wyswietlacz-stol-szereg {
+	display: table-row;
+} .brak-wyswietlacza {
+	display: none;
+}
