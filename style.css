@@ -86,6 +86,26 @@ debil-css Pro posiada otwarte źródło i jest udostępniony na licencji MIT (ht
 	background-color: pink;
 } .kolor-tlo-pomaranczowe {
 	background-color: orange;
+} .kolor-rama-zielone {
+	border-color: green;
+} .kolor-rama-niebieskie {
+	border-color: blue;
+} .kolor-rama-czarne {
+	border-color: black;
+} .kolor-rama-biale {
+	border-color: white;
+} .kolor-rama-czerwone {
+	border-color: red;
+} .kolor-rama-zolte {
+	border-color: yellow;
+} .kolor-rama-szare {
+	border-color: gray;
+} .kolor-rama-fioletowe {
+	border-color: purple;
+} .kolor-rama-rozowe {
+	border-color: pink;
+} .kolor-rama-pomaranczowe {
+	border-color: orange;
 }
 
 // Klasy dotyczące zaokrąglenia
@@ -152,4 +172,33 @@ debil-css Pro posiada otwarte źródło i jest udostępniony na licencji MIT (ht
 	padding-right: 75%;
 } .anarchokapitalistyczna-wysciolka {
 	padding-right: 100%;
+}
+
+// Klasy dotyczące ramy
+.brak-ramy {
+	border-style: none;
+} .ukryta-rama {
+	border-style: hidden;
+} .kropki-rama {
+	border-style: dotted;
+} .kreski-rama {
+	border-style: dashed;
+} .solidna-rama {
+	border-style: solid;
+} .podwojna-rama {
+	border-style: double;
+} .row-rama {
+	border-style: groove;
+} .grzbiet-rama {
+	border-style: ridge;
+} .wstawka-rama {
+	border-style: inset;
+} .poczatek-rama {
+	border-style: outset;
+} .rama-chuda {
+	border-width: thin;
+} .rama-przecietna {
+	border-width: medium;
+} .rama-gruba {
+	border-width: thick;
 }
