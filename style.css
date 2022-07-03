@@ -119,6 +119,46 @@ debil-css Pro posiada otwarte źródło i jest udostępniony na licencji MIT (ht
 	border-radius: 75%;
 } .za-bardzo-zaokraglone {
 	border-radius: 100%;
+} .dol-lewo-niezaokraglone {
+	border-bottom-left-radius: 0%;
+} .dol-lewo-troche-zaokraglone {
+	border-bottom-left-radius: 25%;
+} .dol-lewo-zaokraglone {
+	border-bottom-left-radius: 50%;
+} .dol-lewo-bardzo-zaokraglone {
+	border-bottom-left-radius: 75%;
+} .dol-lewo-za-bardzo-zaokraglone {
+	border-bottom-left-radius: 100%;
+} .dol-prawo-niezaokraglone {
+	border-bottom-right-radius: 0%;
+} .dol-prawo-troche-zaokraglone {
+	border-bottom-right-radius: 25%;
+} .dol-prawo-zaokraglone {
+	border-bottom-right-radius: 50%;
+} .dol-prawo-bardzo-zaokraglone {
+	border-bottom-right-radius: 75%;
+} .dol-prawo-za-bardzo-zaokraglone {
+	border-bottom-right-radius: 100%;
+} .gora-lewo-niezaokraglone {
+	border-top-left-radius: 0%;
+} .gora-lewo-troche-zaokraglone {
+	border-top-left-radius: 25%;
+} .gora-lewo-zaokraglone {
+	border-top-left-radius: 50%;
+} .gora-lewo-bardzo-zaokraglone {
+	border-top-left-radius: 75%;
+} .gora-lewo-za-bardzo-zaokraglone {
+	border-top-left-radius: 100%;
+} .gora-prawo-niezaokraglone {
+	border-top-right-radius: 0%;
+} .gora-prawo-troche-zaokraglone {
+	border-top-right-radius: 25%;
+} .gora-prawo-zaokraglone {
+	border-top-right-radius: 50%;
+} .gora-prawo-bardzo-zaokraglone {
+	border-top-right-radius: 75%;
+} .gora-prawo-za-bardzo-zaokraglone {
+	border-top-right-radius: 100%;
 }
 
 //Klasy dotyczące wyściółki
@@ -246,4 +286,102 @@ debil-css Pro posiada otwarte źródło i jest udostępniony na licencji MIT (ht
 	display: table-row;
 } .brak-wyswietlacza {
 	display: none;
+}
+
+// Klasy dotyczące wymiarów
+.wymiary-szerokosc-automatyczna {
+	width: auto;
+} .wymiary-szerokosc-mala {
+	width: 25%;
+} .wymiary-szerokosc-przecietna {
+	width: 50%;
+} .wymiary-szerokosc-duza {
+	width: 75%;
+} .wymiary-szerokosc-za-duza {
+	width: 100%;
+} .wymiary-wysokosc-automatyczna {
+	width: auto;
+} .wymiary-wysokosc-mala {
+	width: 25%;
+} .wymiary-wysokosc-przecietna {
+	width: 50%;
+} .wymiary-wysokosc-duza {
+	width: 75%;
+} .wymiary-wysokosc-za-duza {
+	width: 100%;
+}
+
+// Klasy dotyczące kursora
+.kursor-alias {
+	
+} .kursor-wszystkie-przewijanie {
+	
+} .kursor-automatyczne {
+	
+} .kursor-ogniwo {
+	
+} .kursor-kontekstowa-karta-dan {
+	
+} .kursor-kol-zmien-wielkosc {
+	
+} .kursor-kopiuj {
+	
+} .kursor-krzyz-wlosy {
+	
+} .kursor-domyslne {
+	
+} .kursor-e-zmien-wielkosc {
+	
+} .kursor-ew-zmien-wielkosc {
+	
+} .kursor-chwyc {
+	
+} .kursor-chwytanie {
+	
+} .kursor-pomoc {
+	
+} .kursor-przenies {
+	
+} .kurosr-n-zmien-wielkosc {
+	
+} .kursor-ne-zmien-wielkosc {
+	
+} .kursor-nesw-zmien-wielkosc {
+	
+} .kursor-ns-zmien-wielkosc {
+	
+} .kursor-nw-zmien-wielkosc {
+	
+} .kursor-nwse-zmien-wielkosc {
+	
+} .kursor-nie-upusc {
+	
+} .kursor-zaden {
+	
+} .kursor-bez-pozwolenia {
+	
+} .kursor-wskaznik {
+	
+} .kursor-progres {
+	
+} .kursor-row-zmien-wielkosc {
+	
+} .kursor-s-zmien-wielkosc {
+	
+} .kursor-se-zmien-wielkosc {
+	
+} .kursor-sw-smien-wielkosc {
+	
+} .kursor-tekst {
+	
+} .kursor-url {
+	
+} .kursor-w-zmien-wielkosc {
+	
+} .kursor-poczekaj {
+	
+} .kursor-przybliz {
+	
+} .kursor-odsun {
+	
 }
