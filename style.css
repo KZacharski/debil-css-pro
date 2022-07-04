@@ -300,15 +300,15 @@ debil-css Pro posiada otwarte źródło i jest udostępniony na licencji MIT (ht
 } .wymiary-szerokosc-za-duza {
 	width: 100%;
 } .wymiary-wysokosc-automatyczna {
-	width: auto;
+	height: auto;
 } .wymiary-wysokosc-mala {
-	width: 25%;
+	height: 25%;
 } .wymiary-wysokosc-przecietna {
-	width: 50%;
+	height: 50%;
 } .wymiary-wysokosc-duza {
-	width: 75%;
+	height: 75%;
 } .wymiary-wysokosc-za-duza {
-	width: 100%;
+	height: 100%;
 }
 
 // Klasy dotyczące kursora
