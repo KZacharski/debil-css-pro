@@ -383,3 +383,56 @@ debil-css Pro posiada otwarte źródło i jest udostępniony na licencji MIT (ht
 } .kursor-odsun {
 	cursor: zoom-out;
 }
+
+// Klasy dotyczące marginesów
+.brak-marginesu {
+	margin: 0%;
+} .maly-margines {
+	margin: 25%;
+} .margines {
+	margin: 50%;
+} .duzy-margines {
+	margin: 75%;
+} .za-duzy-margines {
+	margin: 100%;
+} .brak-gornego-marginesu {
+	margin-top: 0%;
+} .maly-gorny-margines {
+	margin-top: 25%;
+} .gorny-margines {
+	margin-top: 50%;
+} .duzy-gorny-margines {
+	margin-top: 75%;
+} .za-duzy-gorny-margines {
+	margin-top: 100%;
+} .brak-dolnego-marginesu {
+	margin-bottom: 0%;
+} .maly-dolny-margines {
+	margin-bottom: 25%;
+} .dolny-margines {
+	margin-bottom: 50%;
+} .duzy-dolny-margines {
+	margin-bottom: 75%;
+} .za-duzy-dolny-margines {
+	margin-bottom: 100%;
+} .brak-prawego-marginesu {
+	margin-right: 0%;
+} .maly-prawy-margines {
+	margin-right: 25%;
+} .prawy-margines {
+	margin-right: 50%;
+} .duzy-prawy-margines {
+	margin-right: 75%;
+} .za-duzy-prawy-margines {
+	margin-right: 100%;
+} .brak-lewackiego-marginesu {
+	margin-left: 0%;
+} .maly-lewacki-margines {
+	margin-left: 25%;
+} .lewacki-margines {
+	margin-left: 50%;
+} .duzy-lewacki-margines {
+	margin-left: 75%;
+} .za-duzy-lewacki-margines {
+	margin-left: 100%;
+}
