@@ -313,75 +313,73 @@ debil-css Pro posiada otwarte źródło i jest udostępniony na licencji MIT (ht
 
 // Klasy dotyczące kursora
 .kursor-alias {
-	
+	cursor: alias;
 } .kursor-wszystkie-przewijanie {
-	
+	cursor: all-scroll;
 } .kursor-automatyczne {
-	
+	cursor: auto;
 } .kursor-ogniwo {
-	
+	cursor: cell;
 } .kursor-kontekstowa-karta-dan {
-	
+	cursor: context-menu;
 } .kursor-kol-zmien-wielkosc {
-	
+	cursor: col-resize;
 } .kursor-kopiuj {
-	
+	cursor: copy;
 } .kursor-krzyz-wlosy {
-	
+	cursor: crosshair;
 } .kursor-domyslne {
-	
+	cursor: default;
 } .kursor-e-zmien-wielkosc {
-	
+	cursor: e-resize;
 } .kursor-ew-zmien-wielkosc {
-	
+	cursor: ew-resize;
 } .kursor-chwyc {
-	
+	cursor: grab;
 } .kursor-chwytanie {
-	
+	cursor: grabbing;
 } .kursor-pomoc {
-	
+	cursor: help;
 } .kursor-przenies {
-	
-} .kurosr-n-zmien-wielkosc {
-	
+	cursor: move;
+} .kursor-n-zmien-wielkosc {
+	cursor: n-resize;
 } .kursor-ne-zmien-wielkosc {
-	
+	cursor: ne-resize;
 } .kursor-nesw-zmien-wielkosc {
-	
+	cursor: nesw-resize;
 } .kursor-ns-zmien-wielkosc {
-	
+	cursor: ns-resize;
 } .kursor-nw-zmien-wielkosc {
-	
+	cursor: nw-resize;
 } .kursor-nwse-zmien-wielkosc {
-	
+	cursor: nwse-resize;
 } .kursor-nie-upusc {
-	
+	cursor: no-drop;
 } .kursor-zaden {
-	
+	cursor: none;
 } .kursor-bez-pozwolenia {
-	
+	cursor: not-allowed;
 } .kursor-wskaznik {
-	
+	cursor: pointer;
 } .kursor-progres {
-	
+	cursor: progress;
 } .kursor-row-zmien-wielkosc {
-	
+	cursor: row-resize;
 } .kursor-s-zmien-wielkosc {
-	
+	cursor: s-resize
 } .kursor-se-zmien-wielkosc {
-	
+	cursor: se-resize;
 } .kursor-sw-smien-wielkosc {
-	
+	cursor: sw-resize;
 } .kursor-tekst {
-	
-} .kursor-url {
-	
+	cursor: text;
 } .kursor-w-zmien-wielkosc {
-	
+	cursor: w-resize;
 } .kursor-poczekaj {
-	
+	cursor: wait;
 } .kursor-przybliz {
-	
+	cursor: zoom-in;
 } .kursor-odsun {
-	
+	cursor: zoom-out;
 }
