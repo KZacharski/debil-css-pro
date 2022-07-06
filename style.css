@@ -443,3 +443,50 @@ debil-css Pro posiada otwarte źródło i jest udostępniony na licencji MIT (ht
 } .przewijanie-plynne {
 	scroll-behavior: smooth;
 }
+
+// Klasy dotyczące stylu listy
+.lista-dysk {
+	list-style-type: disc;
+} .lista-kolo {
+	list-style-type: circle;
+} .lista-kwadrat {
+	list-style-type: square;
+} .lista-decymalne {
+	list-style-type: decimal;
+} .lista-decymalne-zero-przed {
+	list-style-type: decimal-leading-zero;
+} .lista-nizsze-alfa {
+	list-style-type: lower-alpha;
+} .lista-nizsze-greckie {
+	list-style-type: lower-greek;
+} .lista-nizsze-lacinskie {
+	list-style-type: lower-latin;
+} .lista-nizsze-rzymskie {
+	list-style-type: lower-roman;
+} .lista-wyzsze-alfa {
+	list-style-type: upper-alpha;
+} .lista-wyzsze-greckie {
+	list-style-type: upper-greek;
+} .lista-wyzsze-lacinskie {
+	list-style-type: upper-latin;
+} .lista-wyzsze-rzymskie {
+	list-style-type: upper-roman;
+} .lista-armenskie {
+	list-style-type: armenian;
+} .lista-cjk-ideograficzne {
+	list-style-type: cjk-ideographic;
+} .lista-gruzinskie {
+	list-style-type: georgian;
+} .lista-hebrajskie {
+	list-style-type: hebrew;
+} .lista-hiragana {
+	list-style-type: hiragana;
+} .lista-hiragana-iroha {
+	list-style-type: hiragana-iroha;
+} .lista-katakana {
+	list-style-type: katakana;
+} .lista-katakana-iroha {
+	list-style-type: katakana-iroha;
+} .lista-zaden {
+	list-style-type: none;
+}
