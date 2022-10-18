@@ -490,3 +490,50 @@ debil-css Pro posiada otwarte źródło i jest udostępniony na licencji MIT (ht
 } .lista-zaden {
 	list-style-type: none;
 }
+
+// Klasy dotyczące elastycznego
+.elastyczne-kierumek-kolumna {
+	flex-direction: column;
+} .elastyczne-kierunek-kolumna-odwrocona {
+	flex-direction: column-reverse;
+} .elastyczne-kierunek-row {
+	flex-direction: row;
+} .elastyczne-zawiniete-zawiniete {
+	flex-wrap: wrap;
+} .elastyczne-zawiniete-niezawiniete {
+	flex-wrap: nowrap;
+} .elastyczne-zawiniete-zawiniete-odwrocone {
+	flex-wrap: wrap-reverse;
+} .elastyczne-uzasadnij-tresc-srodek {
+	justify-content: center;
+} .elastyczne-uzasadnij-tresc-elastyczne-poczatek {
+	justify-content: flex-start;
+} .elastyczne-uzasadnij-tresc-elastyczne-koniec {
+	justify-content: flex-end;
+} .elastyczne-uzasadnij-tresc-przestrzen-wkolo {
+	justify-content: space-around;
+} .elastyczne-uzasadnij-tresc-przestrzen-pomiedzy {
+	justify-content: space-between;
+} .elastyczne-ustaw-przedmioty-srodek {
+	align-items: center;
+} .elastyczne-ustaw-przedmioty-elastyczne-poczatek {
+	align-items: flex-start;
+} .elastyczne-ustaw-przedmioty-elastyczne-koniec {
+	align-items: flex-end;
+} .elastyczne-ustaw-przedmioty-rozciagniete {
+	align-items: stretch;
+} .elastyczne-ustaw-przedmioty-linia-bazowa {
+	align-items: baseline;
+} .elastyczne-ustaw-tresc-przestrzen-pomiedzy {
+	align-content: space-between;
+} .elastyczne-ustaw-tresc-przestrzen-wkolo {
+	align-content: space-around;
+} .elastyczne-ustaw-tresc-rozciagnij {
+	align-content: stretch;
+} .elastyczne-ustaw-tresc-srodek {
+	align-content: center;
+} .elastyczne-ustaw-tresc-elastyczne-poczatek {
+	align-content: flex-start;
+} .elastyczne-ustaw-tresc-elastyczne-koniec {
+	align-content: flex-end;
+}
